@@ -13,4 +13,4 @@ compression.
 Your task is to create a simple SoC which can display an increasing count on a set of LEDs. An
 overview of your hardware system is shown in the diagrams below
 
-<img src="/imgSrc/hardwareSystemDiagram.jpg" alt="Hardware System Design" style="height: 100px; width:100px;"/>
+![Hardware System Design](/Labs/Practicle_01/imgSrc/hardwareSystemDiagram.jpg "Hardware System Design")
